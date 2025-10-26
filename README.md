@@ -7,7 +7,7 @@ In this case, the tram stop is Doyen Brus towards Bordeaux.
 
 <a href="assets/img.png"><img src="assets/img.png" alt="API Interface" width="260"></a>
 
-Possible improvements
+## Possible improvements
 
 - Add the possibility to choose the stop
 - Add cache system to avoid calling the API too often
